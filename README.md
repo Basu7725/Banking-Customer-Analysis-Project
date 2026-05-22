@@ -15,7 +15,7 @@ The purpose of this project is to master the exploratory data analysis (EDA) in 
   
   
 ## Materials and methods: 
-The data that we are going to use for this is a subset of an open source Bank Marketing Data Set from the UCI ML repository: https://archive.ics.uci.edu/ml/citation_policy.html.
+The data that we are going to use for this is a subset of an open source Bank Marketing Data Set from the UCI ML.
 
 This dataset is publicly available for research. The details are described in [Moro et al., 2014].
 
